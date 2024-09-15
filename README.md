@@ -16,3 +16,8 @@ sequenceDiagram
     participant listing as 商品を出品
     actor 出品者
 ```
+
+### データ取得はSWR
+
+### React Content Loader
+ローディングのためのプレースホルダーを簡単に作れるライブラリ
