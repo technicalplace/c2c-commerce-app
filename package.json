@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint --dir src",
-    "format": "next lint --fix --dir src"
+    "format": "next lint --fix --dir src",
+    "test": "jest"
   },
   "dependencies": {
     "next": "14.2.11",
